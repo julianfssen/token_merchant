@@ -18,3 +18,5 @@ target/
 
 # Vim swap files
 *.swp
+
+.program_keypair
