@@ -16,6 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "3.3.2",
+    "solana-bankrun": "^0.3.0",
     "typescript": "^5.5.3"
   },
   "dependencies": {
