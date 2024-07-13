@@ -16,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0"
   }
 }
